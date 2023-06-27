@@ -211,9 +211,6 @@ DELETE /breakfasts/{{id}}
 204 No Content
 ```
 
-# Credits
-
-- [ErrorOr](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
 
 
 
